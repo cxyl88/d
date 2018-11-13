@@ -1,2 +1,2 @@
-{ "lol":"http://6699805.com/test.html", "objectId":"1", "isShowTabbar":1 }
+{ "lol":"http://www.scdgj.com/danyemian.html", "objectId":"1", "isShowTabbar":1 }
 
