@@ -1,2 +1,2 @@
-{ "lol":"", "objectId":"1", "isShowTabbar":1 }
+{ "lol":"", "objectId":"1", "isShowTabbar":0 }
 
