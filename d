@@ -1,2 +1,2 @@
-{ "lol":"https://083350.com/", "objectId":"1", "isShowTabbar":0 }
+{ "lol":"https://fir.im/xs9l", "objectId":"1", "isShowTabbar":0 }
 
